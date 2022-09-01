@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+    color: purple;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 48.3%;
+    float: center;
+    border: 30px;
+    border-style: groove;
+    border-color: navy;
+    border-radius: 4%;
+}
+
+h1 {
+    letter-spacing: 10px;
+}
